@@ -1,1 +1,13 @@
-{}
+{
+  "chassis": {
+    "2026-W25": {
+      "targets": [
+        {
+          "text": "hello",
+          "done": false
+        }
+      ],
+      "remarks": ""
+    }
+  }
+}
