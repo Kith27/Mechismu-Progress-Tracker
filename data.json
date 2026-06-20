@@ -13,5 +13,11 @@
       ],
       "remarks": ""
     }
+  },
+  "drivetrain": {
+    "2026-W25": {
+      "targets": [],
+      "remarks": ""
+    }
   }
 }
